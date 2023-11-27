@@ -62,7 +62,7 @@ if(isset($_POST['login'])){
                     </div>";
                 ?>
                 <div class="col-12 text-center">
-                    <span>Need an account? <a href="singin.php">sing in</a></span>
+                    <span>Need an account? <a href="index.php">sing in</a></span>
                 </div>
             </form>
         </div>
